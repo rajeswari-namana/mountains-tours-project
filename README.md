@@ -1,3 +1,4 @@
+Project created using html and css:
 
 <img width="1435" alt="Screenshot 2024-03-25 at 2 31 21 PM" src="https://github.com/rajeswari-namana/mountains-tours-project/assets/29212658/5b6798d6-f522-4ff5-8d6e-2622f4a903fd">
 
